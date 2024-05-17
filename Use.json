@@ -3,7 +3,7 @@
   "bannerads": "ca-app-pub-3940256099942544/9214589741",
   "interads": "ca-app-pub-3940256099942544/1033173712",
   "openads": "ca-app-pub-3940256099942544/9257395921",
-  "issplashads": "1",
-  "isinterads": "1",
-  "isnative": "1"
+  "issplashads": "0",
+  "isinterads": "0",
+  "isnative": "0"
 }
